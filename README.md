@@ -22,4 +22,4 @@ This is a Spring Boot application that reads a `.txt` batch file during startup,
 - JPA (Hibernate)
 
 ## Documentation
-- Full system and design documentation is available in [`project-document.docx`](./project-document.docx)
+- Full system and design documentation is available in [`project-document.docx`](./Project Documentation.pdf)
